@@ -1,0 +1,12 @@
+E:\Proyecto-Browser_Travel\Travel_Library\Travel_Library.Core\bin\Debug\net5.0\Travel_Library.Core.deps.json
+E:\Proyecto-Browser_Travel\Travel_Library\Travel_Library.Core\bin\Debug\net5.0\Travel_Library.Core.dll
+E:\Proyecto-Browser_Travel\Travel_Library\Travel_Library.Core\bin\Debug\net5.0\ref\Travel_Library.Core.dll
+E:\Proyecto-Browser_Travel\Travel_Library\Travel_Library.Core\bin\Debug\net5.0\Travel_Library.Core.pdb
+E:\Proyecto-Browser_Travel\Travel_Library\Travel_Library.Core\obj\Debug\net5.0\Travel_Library.Core.csprojAssemblyReference.cache
+E:\Proyecto-Browser_Travel\Travel_Library\Travel_Library.Core\obj\Debug\net5.0\Travel_Library.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyecto-Browser_Travel\Travel_Library\Travel_Library.Core\obj\Debug\net5.0\Travel_Library.Core.AssemblyInfoInputs.cache
+E:\Proyecto-Browser_Travel\Travel_Library\Travel_Library.Core\obj\Debug\net5.0\Travel_Library.Core.AssemblyInfo.cs
+E:\Proyecto-Browser_Travel\Travel_Library\Travel_Library.Core\obj\Debug\net5.0\Travel_Library.Core.csproj.CoreCompileInputs.cache
+E:\Proyecto-Browser_Travel\Travel_Library\Travel_Library.Core\obj\Debug\net5.0\Travel_Library.Core.dll
+E:\Proyecto-Browser_Travel\Travel_Library\Travel_Library.Core\obj\Debug\net5.0\ref\Travel_Library.Core.dll
+E:\Proyecto-Browser_Travel\Travel_Library\Travel_Library.Core\obj\Debug\net5.0\Travel_Library.Core.pdb

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "FNeiOIKDn5T6yR2zdrxpReFs3ddxmaFWm4BrE/TjnT80AbBTBABUVDQ8am4gE6uwyWVU9VRzFeK5mHHrYq0obg==",
+  "success": true,
+  "projectFilePath": "E:\\Proyectos-API\\Back-api-Funcionando\\Travel_Library\\Travel_Library.Core\\Travel_Library.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MAKIIA-PC03\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\MAKIIA-PC03\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\MAKIIA-PC03\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
